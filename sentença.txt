@@ -1,0 +1,4 @@
+sentenças:
+. qual a nessecidade de usar a azure?
+. para que ela serve?
+. quais são suas vantagens?

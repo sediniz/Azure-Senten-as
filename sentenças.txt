@@ -1,0 +1,26 @@
+transcrição do video introdutorio sobre a AZURE:
+
+Microsoft Edge o que é? Quais são suas principais características e funcionalidades? É o que iremos ver no vídeo de hoje.
+Hegais sejam bem vindos ao canal MPs digital, segurança, tecnologia e conhecimento em um só lugar. Eu me chamo Anderson 
+Bento e hoje iremos abordar o Microsoft agido ou Azure, que é o silencial de nuvem da Microsoft. Bom, o anjo ou Azure. 
+Ele é uma plataforma que conta com vários serviços interligados, como uma autenticação de usuários, arquivos, backups,
+banco de dados, redes web, serviços móveis, máquinas virtuais, entre outros. Elas surgiram no dia primeiro de fevereiro 
+de 2010, uma ferramenta que foi voltada para que os desenvolvedores, que sofrem de outros serviços, tivessem mais agilidade
+e segurança na praticidade para os seus processos. Mas por ser uma ferramenta bastante versátil após. Esses 11 anos,
+a Microsoft com a revolução da tecnologia, inclusive da plataforma Edge. Hoje ela é capaz de concentrar toda a plataforma
+de nuvem de uma empresa em um lugar só. Vamos as principais vantagens e porquê mudar para nuvem utilizando Microsoft Edge?
+Bom, primeiramente agilidade nos processos, com o sistema integrado e apoiado na tecnologia em nuvem, fazendo com que os
+processos se tornem mais ágeis, facilitando as atividades rotineiras de um negócio por meio da automação de processos,
+refletindo diretamente na capacidade de produção dos colaboradores. Em segundo, temos a análise de dados através da coleta
+destes dados realizada pelo sistema, proporcionando aos gestores reformular estratégias de forma mais precisa e embasada.
+Tô andando a tomada de decisão mais eficiente. Em terceiro, temos a segurança, que é um quesito importantíssimo, contando
+com o suporte de uma das maiores empresas do mundo. O atendimento é feito de forma ágil e eficaz, fazendo com que qualquer
+ameaça possa ser tratada em tempo hábil, seja necessidade da equipe de TI se preocupar com atualizações, pois ser feito de
+forma automática pela ferramenta. Em quarto lugar, temos a integração, que é feita com diferentes sistemas, uma das
+principais características de uma boa solução. Então é a capacidade de se integrar a outros programas e ferramentas.
+O Wesley é capaz de suportar inúmeros sistemas operacionais e diferentes prejuízos. Bom pessoal, esse foi um breve resume
+sobre o Microsoft Edge e as suas aplicabilidades é ninguém dos posteriores. Estarei aprofundando mais um assunto e a você
+que ainda não é inscrito no canal, se inscreva, compartilhe com um amigo, deixe um like para que o YouTube entenda que esse
+vídeo é relevante e que ele possa ser propagado. Eu vou ficando por aqui e a gente se vê no próximo vídeo até lá.
+
+link do video - https://www.youtube.com/watch?v=ZuSz_Yf8qV8
