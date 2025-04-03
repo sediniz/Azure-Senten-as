@@ -9,6 +9,11 @@ Segurança: O Azure é uma plataforma segura que protege seus dados contra acess
 Custo-efetividade: O Azure é uma plataforma econômica que pode ajudá-lo a economizar dinheiro em sua infraestrutura de TI.
 Além desses benefícios gerais, o Azure também oferece uma série de benefícios específicos para diferentes tipos de empresas. Por exemplo, o Azure oferece uma série de serviços que podem ajudar as empresas a melhorar a experiência do cliente. Esses serviços incluem o Azure Cognitive Services, que pode ser usado para construir chatbots e assistentes virtuais inteligentes.
 
+<div class="img">
+  <img src = https://github.com/sediniz/Azure-Senten-as/issues/1#issue-2968287886 
+    width = "300px">
+</div>
+
 O Azure também oferece uma série de serviços que podem ajudar as empresas a melhorar sua produtividade. Esses serviços incluem o Azure DevOps, que pode ser usado para automatizar o desenvolvimento e teste de software.
 
 Se você está procurando uma plataforma de computação em nuvem que seja escalável, flexível, confiável, segura e econômica, o Azure é uma ótima opção. Com o Azure, você pode construir qualquer tipo de aplicação e alcançar seus objetivos de negócios.
